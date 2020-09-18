@@ -1,23 +1,23 @@
 {
-    "name": "kasp3r/link-preview",
+    "name": "colender/link-preview",
     "type": "library",
     "description": "Link preview library for PHP",
     "keywords": ["php","url","scraping"],
-    "homepage": "http://github.com/kasp3r/link-preview",
+    "homepage": "http://github.com/colender/link-preview",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tadas Juozapaitis",
-            "email": "kasp3rito@gmail.com",
-            "homepage": "http://jugbit.com"
+            "name": "Ruben Rangel",
+            "email": "colender.m@gmail.com",
+            "homepage": "http://enderlabs.dev"
         }
     ],
     "require": {
         "php": ">=5.6",
-        "guzzlehttp/guzzle": "^6.2"
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.3"
+        "phpunit/phpunit": "^9.0"
     },
     "autoload": {
         "psr-0": {
